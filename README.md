@@ -22,4 +22,4 @@ A text-based Pokémon arm wrestling tournament built in Python. Players compete 
 1. Clone this repository:
    ```bash
    git clone https://github.com/SydneyTalksCode/pokemon-game
-   cd pokemon-arm-wrestling-game
+   cd pokemon-game
